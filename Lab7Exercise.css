@@ -1,0 +1,30 @@
+html{
+    background-color: gainsboro;
+}
+
+#pic{
+    width: auto;
+    height: 100%;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-style: italic;
+}
+
+body>h3{
+    text-align: center;
+}
+
+body>p{
+    text-align: center;
+}
+
+.form{
+    font-size: 14pt;
+    text-align: center;
+    background-color: rgb(241, 252, 255);
+}
